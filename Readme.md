@@ -1232,13 +1232,6 @@ except Exception as e:
 
 ---
 
-## 📞 Support & Contact
-
-### Need Help?
-- **Issues**: Open an issue on GitHub
-- **Questions**: Use Discussions tab
-- **Email**: your.email@example.com
-- **Twitter**: @yourusername
 
 ### Acknowledgments
 Terima kasih kepada:
